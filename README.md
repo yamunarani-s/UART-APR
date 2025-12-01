@@ -311,11 +311,6 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 ![WhatsApp Image 2025-11-17 at 09 53 12_ad28624f](https://github.com/user-attachments/assets/e7e0fad9-d0a7-4387-8d00-9ac61d30d19a)
 
 
-### Fig 6: UART APR:
-
-<img width="1560" height="812" alt="image" src="https://github.com/user-attachments/assets/ac0388f3-5d5c-427d-9306-f919979a67a7" />
-
-
 ## RESULT:
 
 The functionality of the uart was successfully verified using a testbench and simulated with the nclaunch tool and genus and for innovus creating the physical design.
